@@ -12,4 +12,4 @@ class Anagram
       end
     end
     
-    listen
+    listen = Anagram.new
