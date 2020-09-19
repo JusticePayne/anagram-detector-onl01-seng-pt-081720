@@ -14,4 +14,4 @@ class Anagram
     
     listen = Anagram.new("Listen")
     
-    listen.match (%w)
+    listen.match(%w(enlists))
